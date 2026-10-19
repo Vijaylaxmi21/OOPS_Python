@@ -14,7 +14,8 @@ This repository contains beginner-friendly Python programs focused on Object-Ori
 | No. | Program | Concept |
 |:---:|---|---|
 | 01 | Student Class | Classes & Objects |
-| 02 | Bank Account | Methods & Instance Attributes |
+| 02 | Bank Account | Methods & Instance Attributes | 
+| 03 |Book Review System | Methods & Instance Attributes 
 
 ## 🛠️ Technologies Used
 
